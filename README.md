@@ -30,10 +30,10 @@ criticism is greatly appreciated!)
 The first step is to get a design framework up and running
 that way new features will require less effort to add. After
 this, the first few features I am planning to add are:
-    * Defining categories
-    * File counting
-    * File size listing
-    * File type listing
+* Defining categories
+* File counting
+* File size listing
+* File type listing
 
 
 # Contributing

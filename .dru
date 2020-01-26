@@ -1,0 +1,11 @@
+
+# DRU comment
+
+Code (Haskell): -c -tl -d
+    *.hs
+
+Documentation: -c
+    *.md
+
+Files: -c -ts
+    *

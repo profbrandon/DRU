@@ -10,6 +10,8 @@ computer a simple tool to get statistics on their projects.
 
 # Usage
 
+Although the project isn't quite up and running, the usage
+file under 'doc' has some of what is planned.
 
 # Status
 
